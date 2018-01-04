@@ -1,0 +1,13 @@
+[Unit]
+Description=Lenovo Professional Wireless Keyboard Hacked Driver
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/
+ExecStart=/bin/bash /usr/local/bin/lenovo_keyboard.sh
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target
