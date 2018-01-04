@@ -1,6 +1,7 @@
-Linux driver for Lenovo Professional Wireless Keyboard Combo
-============================================================
+## Linux driver for Lenovo Professional Wireless Keyboard Combo
  
-Installation
-------------
+Install with:
+
+```bash
 ./install.sh
+```
