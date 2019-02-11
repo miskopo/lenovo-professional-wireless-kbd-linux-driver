@@ -15,3 +15,6 @@ Clone this repository and install with:
 Kernel: 4.20
 
 Fedora 28
+
+### Modified from
+https://github.com/fabianbl/lenovo_professional_wireless_keyboard
